@@ -492,33 +492,13 @@ body {
     margin-right: auto;
     font-weight: 700;
     font-size: 36px;
-    line-height: 1,11;
+    line-height: 1,1;
     text-align: center;
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: var(--primary-text-color);
     
 }
-
-/* .customers::after {
-    content: "";
-    display: block;
-    width: 168px;
-    height: 88px;
-    background-size: ;
-    background-repeat: no-repeat;
-    background-position: center;
-    background-color: 8E8F99;
-    border-radius: 4px;
-    border: 1px solid #8E8F99;
-    border-radius: 4px;
-
-}
-
-/* .main-title {
-    margin-top: 0;
-    margin-bottom: 48px;
-} */ */
 
 
 /* Main section portfolio */
@@ -527,8 +507,6 @@ body {
 .portfolio-section {
     padding: 96px 120px;
 }
-
-
 
 .portfolio-flex {
     display: flex;
@@ -635,3 +613,8 @@ body {
 /* =========================== /FOOTER PORTFOLIO ============================ */
 
 
+
+
+.customers-list {
+    display: flex;
+}
