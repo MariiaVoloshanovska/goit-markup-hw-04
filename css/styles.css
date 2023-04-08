@@ -590,7 +590,6 @@ body {
 .logo-tog {
     display: flex;
     margin-bottom: 16px;
-    justify-content: center;
     align-items: center;
 }
 
