@@ -605,12 +605,12 @@ body {
     margin-right: auto;
     font-weight: 700;
     font-size: 36px;
-    line-height: 1, 1;
+    line-height: 1,1;
     text-align: center;
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: var(--primary-text-color);
-    padding-bottom: 72px;
+    margin-bottom: 72px;
 
 }
 
@@ -625,12 +625,18 @@ body {
 }
 
 .customers-list_item-link {
-    display: block;
+    display: flex;
     width: 168px;
     height: 88px;
     border: 1px solid #8E8F99;
     border-radius: 4px;
-    background-position: center;
+    align-items: center;
+    justify-content: center;
+
+
+}
+
+.icandoit {
 
 
 }
