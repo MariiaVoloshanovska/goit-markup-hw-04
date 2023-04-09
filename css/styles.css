@@ -510,6 +510,13 @@ body {
     color: var(--logo-footer-two);
 }
 
+.footer-icons {
+    display: flex;
+    align-self: baseline;
+    gap: 120px;
+    
+}
+
 /* =========================== FOOTER ============================ */
 
 
