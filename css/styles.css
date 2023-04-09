@@ -425,45 +425,6 @@ body {
 }
 
 
-.members-li {
-    
-    border-radius: 50%;
-    fill: #F4F4FD;
-    background-color: #4D5AE5;
-    width: 40px;
-    height: 40px;
-    
-}
-
-.members-list-link {
-    width: 40px;
-    height: 40px;
-
-}
-
-
-.members-link {
-    width: 100%;
-    height: 100%;
-    border-radius: 50%;
-    background-color: #4D5AE5;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-.members-link:hover,
-.members-link:focus {
-    background-color: #404bbf;
-
-}
-
-.flex-flex {
-    display: flex;
-    justify-content: center;
-    gap: 24px;
-}
-
 
 
 
