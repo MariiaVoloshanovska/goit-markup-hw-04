@@ -599,6 +599,11 @@ body {
     gap: 24px;
 }
 
+.members-li-new {
+    width: 40px;
+    height: 40px;
+}
+
 
 
 
