@@ -514,7 +514,6 @@ body {
     display: flex;
     align-self: baseline;
     gap: 120px;
-    
 }
 
 /* =========================== FOOTER ============================ */
@@ -555,6 +554,18 @@ body {
     margin-bottom: 16px;
     align-items: center;
 }
+
+.social-media {
+    margin-bottom: 16px;
+    width: 96px;
+    height: 24px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+     color: #FFFFFF;
+}
+
 
 /* =========================== /FOOTER PORTFOLIO ============================ */
 
