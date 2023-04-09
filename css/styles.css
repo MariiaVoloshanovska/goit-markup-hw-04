@@ -610,7 +610,6 @@ body {
     justify-content: center;
     width: 40px;
     height: 40px;
-    fill: #F4F4FD;
 }
 
 .style-members:hover,
@@ -618,6 +617,9 @@ body {
     background-color: #404bbf;;
 }
 
+.members-svg {
+    fill: #F4F4FD;
+}
 
 
 
