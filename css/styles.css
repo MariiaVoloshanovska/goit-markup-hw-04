@@ -568,6 +568,21 @@ body {
      color: #FFFFFF;
 }
 
+.footer-ul {
+    display: flex;
+    gap: 16px;
+}
+
+.footer-li {
+
+}
+
+.footer-a {
+    width: 100%;
+    height: 100%;
+    background-color: #4d5ae5;
+    
+}
 
 
 /* =========================== /FOOTER PORTFOLIO ============================ */
