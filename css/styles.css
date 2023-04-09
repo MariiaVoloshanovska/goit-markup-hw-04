@@ -658,7 +658,14 @@ body {
 }
 
 
+/* .icandoit {
+    fill: #8E8F99;
+}
 
+.icandoit:hover,
+.icandoit:focus {
+    fill: #404bbf;
+} */
 
 .customers-page {
     padding-top: 120px;
