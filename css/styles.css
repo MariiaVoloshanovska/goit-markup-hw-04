@@ -659,14 +659,29 @@ body {
     justify-content: center;
 }
 
-/* .footer-a {
+.footer-a {
+    width: 100%;
+    height: 100%;
+    background-color: #4d5ae5;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer-a:hover,
+.footer-a:focus {
+    background-color: #31d0aa;
+}
+
+.footer-li {
     width: 40px;
     height: 40px;
-    display: flex;
-    border-radius: 50%;
-    background-color: 4D5AE5;
+}
 
-} */
+.footer-svg {
+    
+}
 
 
 .style-members:hover,
