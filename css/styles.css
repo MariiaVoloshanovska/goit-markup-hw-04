@@ -581,9 +581,6 @@ body {
     gap: 16px;
 }
 
-.footer-li {
-
-}
 
 /* .footer-a {
     width: 100%;
@@ -620,11 +617,6 @@ body {
     justify-content: center;
 }
 
-/* .style-members:hover,
-.style-members:focus {
-    background-color: #404bbf;;
-} */
-
 .members-li-new:hover,
 .members-li-new:focus {
     background-color: #404bbf;
@@ -633,7 +625,6 @@ body {
 .members-svg {
     fill: #F4F4FD;
 }
-
 
 
 
@@ -699,7 +690,7 @@ body {
     height: 88px;
     align-items: center;
     justify-content: center;
-    fill: #8E8F99;
+    fill: #afb1b8;
 }
 .customers-list_item-link:hover,
 .customers-list_item-link:focus {
