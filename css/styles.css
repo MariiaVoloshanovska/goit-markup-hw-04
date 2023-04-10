@@ -628,12 +628,13 @@ body {
 
 .members-svg:hover,
 .members-svg:focus {
-    background-color: #404bbf;;
+    background-color: #404bbf;
 }
 
 .members-li-new:hover,
 .members-li-new:focus {
     background-color: #404bbf;
+    border-radius: 50%;
 }
 
 .members-svg {
