@@ -157,6 +157,7 @@ body {
 }
 
 
+
 .section-paragraf-portfolio {
     margin-bottom: 8px;
     font-weight: 500;
@@ -604,7 +605,7 @@ body {
     height: 100%;
 }
 
-.style-members {
+.members-li-new {
     width: 40px;
     height: 40px;
     background-color: #4d5ae5;
@@ -614,13 +615,12 @@ body {
     justify-content: center;
 }
 
-
-.style-members:hover,
-.style-members:focus {
+.members-li-new:hover,
+.members-li-new:focus {
     background-color: #404bbf;
 }
 
-.style-members {
+.members-svg {
     fill: #F4F4FD;
 }
 
