@@ -626,10 +626,10 @@ body {
     height: 100%;
 }
 
-/* .style-members:hover,
+.style-members:hover,
 .style-members:focus {
     background-color: #404bbf;;
-} */
+}
 
 .members-li-new:hover,
 .members-li-new:focus {
