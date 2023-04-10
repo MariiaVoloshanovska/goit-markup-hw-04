@@ -662,6 +662,10 @@ body {
 }
 
 
+.icandoit {
+    fill: currentColor
+}
+
 /* .icandoit {
     fill: #8E8F99;
 }
