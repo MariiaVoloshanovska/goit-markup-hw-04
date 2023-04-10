@@ -649,7 +649,7 @@ body {
     height: 100%;
 }
 
-.members-li-new {
+.style-members {
     width: 40px;
     height: 40px;
     background-color: #4d5ae5;
@@ -659,8 +659,8 @@ body {
     justify-content: center;
 }
 
-.members-li-new:hover,
-.members-li-new:focus {
+.style-members:hover,
+.style-members:focus {
     background-color: #404bbf;
 }
 
