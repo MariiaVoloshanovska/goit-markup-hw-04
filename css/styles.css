@@ -605,43 +605,34 @@ body {
 
 /* style-members */
 
-/* .style-members {
+.style-members {
     width: 100%;
     height: 100%;
-} */
+}
 
 .members-li-new {
     width: 40px;
     height: 40px;
-
-}
-
-.members-svg{
     background-color: #4d5ae5;
     border-radius: 50%;
+    display: flex;
     align-items: center;
     justify-content: center;
-    display: flex;
-    width: 100%;
-    height: 100%;
-    fill: #F4F4FD
 }
 
-.members-svg:hover,
-.members-svg:focus {
-    background-color: #404bbf;
-    border-radius: 50%;
-}
+/* .style-members:hover,
+.style-members:focus {
+    background-color: #404bbf;;
+} */
 
-/* .members-li-new:hover,
+.members-li-new:hover,
 .members-li-new:focus {
     background-color: #404bbf;
-    border-radius: 50%;
-} */
+}
 
-/* .members-svg {
+.members-svg {
     fill: #F4F4FD;
-} */
+}
 
 
 
