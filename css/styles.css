@@ -624,22 +624,24 @@ body {
     display: flex;
     width: 100%;
     height: 100%;
+    fill: #F4F4FD
 }
 
 .members-svg:hover,
 .members-svg:focus {
     background-color: #404bbf;
-}
-
-.members-li-new:hover,
-.members-li-new:focus {
-    background-color: #404bbf;
     border-radius: 50%;
 }
 
-.members-svg {
+/* .members-li-new:hover,
+.members-li-new:focus {
+    background-color: #404bbf;
+    border-radius: 50%;
+} */
+
+/* .members-svg {
     fill: #F4F4FD;
-}
+} */
 
 
 
