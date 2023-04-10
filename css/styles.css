@@ -156,9 +156,6 @@ body {
     text-align: center;
 }
 
-.members-li-new {
-
-}
 
 .section-paragraf-portfolio {
     margin-bottom: 8px;
@@ -607,7 +604,7 @@ body {
     height: 100%;
 }
 
-.members-li-new {
+.members-svg {
     width: 40px;
     height: 40px;
     background-color: #4d5ae5;
@@ -617,8 +614,9 @@ body {
     justify-content: center;
 }
 
-.members-li-new:hover,
-.members-li-new:focus {
+
+.members-svg:hover,
+.members-svg:focus {
     background-color: #404bbf;
 }
 
