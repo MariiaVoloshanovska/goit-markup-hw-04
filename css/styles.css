@@ -354,10 +354,11 @@ body {
     margin-right: 0;
 }
 
-.descripption-section {
-    padding-top: 120px;
-    padding-bottom: 120px;
+
+.section-pad {
+    padding: 120px 0;
 }
+
 
 .container-description {
     display: flex;
@@ -385,9 +386,6 @@ body {
     margin-right: 0;
 }
 
-.photos-section {
-    padding-bottom: 120px;
-}
 
 /* The members of a team flex */
 
@@ -399,7 +397,6 @@ body {
 
 .employee-page{
     background-color: #F4F4FD;
-    padding: 120px 0;
 }
 
 .employee-item {
@@ -442,10 +439,6 @@ body {
     fill: currentColor;
 }
 
-.customers-page {
-    padding-top: 120px;
-    padding-bottom: 120px;
-}
 
 .customers-list {
     display: flex;
@@ -470,6 +463,27 @@ body {
     border-color: #404bbf;
     color: #404bbf;
 }
+
+
+
+
+.section-doing {
+    padding-bottom: 120px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
