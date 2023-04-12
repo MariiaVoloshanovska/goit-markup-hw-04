@@ -93,8 +93,6 @@ body {
 }
 
 
-
-
 /* Contacts header */
 
 .menu-link {
@@ -131,7 +129,6 @@ body {
 
 /* MAIN */
 
-
 .section-main {
     margin-bottom: 72px;
     font-weight: 700;
@@ -156,8 +153,6 @@ body {
     text-align: center;
 }
 
-
-
 .section-paragraf-portfolio {
     margin-bottom: 8px;
     font-weight: 500;
@@ -174,7 +169,6 @@ body {
     margin-bottom: 8px;
 }
 
-
 .section-descrip-theme-light {
     color: var(--secondary-text-color);
     text-align: center;
@@ -186,12 +180,10 @@ body {
 
 .section-descrip-theme-light-portfolio {
     color: var(--secondary-text-color);
-
 }
 
 .section-descrip-theme-dark {
     color: #F4F4FD;
-
 }
 
 /* PORTFOLIO BUTTONS */
@@ -200,7 +192,7 @@ body {
     border-radius: 4px;
     display: inline-block;
     border: 1px solid #E7E9FC;
-    padding: 12px 24px;
+    padding: 11px 23px;
     min-width: 69px;
     font-family: 'Roboto', sans-serif;
     font-weight: 500;
@@ -224,10 +216,6 @@ body {
     border-radius: 4px;
     
  
-}
-
-.buttons-item:hover {
-
 }
 
 .visually-hidden {
@@ -272,14 +260,13 @@ body {
     align-items: center;
 }
 
-.menu-item {
-    margin-right: 40px;
-}
-
 .menu-item:not(:last-child) {
     margin-right: 40px;
 }
 
+.menu-item-cont:not(:last-child) {
+    margin-right: 40px;
+}
 
 .contacts {
     display: flex;
@@ -362,7 +349,6 @@ body {
 
 .description-item {
     width: 264px;
-
 }
 
 .description-item:nth-child(4n) {
@@ -382,7 +368,6 @@ body {
     background-color: #f4f4fd;
     border-radius: 4px;
     margin-bottom: 8px;
-
 }
 
 /* What are we doing photos flex */
@@ -451,7 +436,6 @@ body {
     text-transform: capitalize;
     color: var(--primary-text-color);
     margin-bottom: 72px;
-
 }
 
 
@@ -584,13 +568,11 @@ body {
     margin-bottom: 72px;
 }
 
-
 /* =========================== /BOTTONS PORTFOLIO ============================ */
 
 
 
 /* =========================== FOOTER PORTFOLIO ============================ */
-
 
 .footer-page {
     padding-top: 100px;
@@ -660,7 +642,6 @@ body {
 /* =========================== /FOOTER PORTFOLIO ============================ */
 
 
-
 .members-list {
     display: flex;
     justify-content: center;
@@ -699,6 +680,9 @@ body {
 
 
 
+
+
+
 /* .icandoit {
     fill: #8E8F99;
 }
@@ -707,9 +691,6 @@ body {
 .icandoit:focus {
     fill: #404bbf;
 } */
-
-
-
 
 
 /* .i-can-do-it-2 {
